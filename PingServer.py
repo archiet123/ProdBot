@@ -5,8 +5,8 @@ import datetime
 
 discord = Discord(url="https://discord.com/api/webhooks/1132091000635002981/v1APgHUgAqMm5i58CeH0jv6i3YsaIJGqA6sY_Jc2Z01WMJr-dlcCrmIZ-Yodv0yRVdMW")
 # discord.post(content="@ち, Hello there")
-now = datetime.now()
-SetTime = "09:25:00"
+
+SetTime = "10:28:00"
 
 while True:    
     CurrentTime = (strftime("%H:%M:%S", gmtime()))
